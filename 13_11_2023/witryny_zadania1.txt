@@ -1,0 +1,109 @@
+zad 1
+
+         WERSJA HTML          ELEMENT           ZAMIENNIK 
+1         HTML 4.01            APPLET              OBJECT
+2         HTML 4.01            MENU                UL
+3         HTML 4.01            DIR                 UL
+4         HTML 4.01            ISINDEX             INPUT
+5         HTML 5.0             BASEFONT            CSS:color,font-familly,font,size
+6         HTML 5.0             STRIKE              CSS:text-decoration
+7         HTML 5.0             S                   CSS:text-decoration
+8         HTML 5.0             U                   CSS:text-decoration
+9         HTML 5.0             FONT                CSS:color,font-familly,font size 
+10        HTML 5.0             CENTER              CSS:text-algin
+
+--------------------------------------------------------------------------------------------
+zad 2
+
+Nowe tagi, m.in.: section, article, header, footer, video, audio, progress;
+Nowe typy pól "input", np. search, url, email, datetime, date, month;
+Możliwość osadzenia MathML i SVG bezpośrednio w dokumencie;
+Nowe atrybuty elementów formularz;
+Szereg nowości w API.
+
+--------------------------------------------------------------------------------------------
+zad 3
+
+HTML 4.0 - https://www.w3.org/TR/1998/REC-html40-19980424/
+HTML 4.01 - https://www.w3.org/TR/html401/
+HTML 5.0 - https://www.w3.org/TR/2011/WD-html5-20110405/
+
+--------------------------------------------------------------------------------------------
+zad 1
+
+Witryna internetowa
+Opis - Witryna internetowa to zbiór stron, adresów URL i podstron, które są umieszczone na jednym serwerze i w ramach jednej domeny. Te strony, zwane stronami internetowymi, zawierają informacje o właścicielu witryny, jego firmie lub na dowolny inny temat.
+
+Adres URL - https://www.google.com/
+
+Portal internetowy
+Opis - Portal internetowy to taki rodzaj serwisu informatycznego (informacyjnego), poprzez który użytkownicy mają dostęp do nowych informacji z wielu dziedzin. Zazwyczaj portale internetowe zawierają mechanizmy wyszukiwania informacji, plików, stron WWW
+
+Adres URL - https://www.youtube.com
+
+Sklep internetowy
+Opis - Sklep internetowy to rodzaj serwisu z katalogiem produktów lub usług, który umożliwia prowadzenie sprzedaży oraz dokonywanie zakupów za pośrednictwem Internetu. Proces zakupowy realizowany jest najczęściej poprzez dodanie wybranych pozycji do koszyka oraz złożenie zamówienia online.
+
+Adres URL - https://www.carrefour.pl
+
+Blog tekstowy
+Opis - Blog tekstowy odzaj internetowego dziennika, prowadzonego przez regularne publikowanie wpisów tematycznych. Blogowanie przybiera rozmaite formy, począwszy od blogów o charakterze osobistym, poprzez blogi branżowe, na których pojawią się specjalistyczne, w pełni merytoryczne treści.
+
+Adres URL - https://www.humansofnewyork.com
+
+Wideoblog
+Opis - Wideoblog rodzaj bloga internetowego, który zamiast postów tekstowych posługuje się materiałem filmowym. Publikowane wideo to najczęściej krótkie, tematyczne realizacje o funkcji informacyjnej, edukacyjnej bądź rozrywkowej. Najpopularniejszymi kanałami dystrybucji vlogerów są: Youtube oraz Dailymotion.
+
+Adres URL - https://www.dailymotion.com/us
+
+--------------------------------------------------------------------------------------------
+zad 2
+
+ODP: portal internetowy
+ponieważ jest to duzy serwis internetowy, który zawiera różne informacje, pliki i rzeczy z dziedzin o temacie edukacji w szkołach, przeczkolach liceach itd. 
+
+--------------------------------------------------------------------------------------------
+zad 3
+
+1. błędna
+2. błędna
+3. błędna
+4. poprawna
+5. poprawna 
+
+--------------------------------------------------------------------------------------------
+zad 4
+
+1995 HTML (2.0) PIERWSZE WYDANIE
+1996 HTML (3.2) ZWIEKSZENIE ILOSCI ATRYBUTOW
+1997 HTML (4.0) OBSLUGA WIELU SKRYPTOW
+2008 HTML (5.0) DODANIE ZNACZNIKOW MULTIMEDIALNYCH
+
+--------------------------------------------------------------------------------------------
+Podsumowanie
+
+Zad 1 
+A
+
+Zad 2
+B
+
+Zad 3
+C
+
+Zad 4
+B
+
+Zad 5
+A
+
+--------------------------------------------------------------------------------------------
+Zadanie egzaminacyjne:
+
+VISUAL STUDIO CODE - Darmowy edytor kodu źródłowego zawierający dużo opcji wspomagających pisanie kodu 
+
+GITHUB - darmowy serwer internetowy umożliwiający łatwe przechowywanie swoich plików w repozytoriach zapisanych na serwerach tej strony
+
+CHATGPT - AI które pomaga w tworzeniu kodów
+
+--------------------------------------------------------------------------------------------
