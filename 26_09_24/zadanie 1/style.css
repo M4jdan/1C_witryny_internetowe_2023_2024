@@ -1,0 +1,22 @@
+ul, li {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  width: 150px;
+}
+
+ul a:link a:visited{
+  display: inline;
+  width: 140px;
+  background-color: #d2c923;
+  color: #31000c;
+  padding: 4px;
+  border: 3px outset #22ede3;
+}
+
+ul a:visited {
+  background-color: #ff6699
+}

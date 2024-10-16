@@ -1,0 +1,15 @@
+zad 1
+b
+
+zad 2
+d
+
+zad 3
+a
+
+zad 4
+d
+
+zad 5
+a
+

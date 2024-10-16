@@ -1,0 +1,33 @@
+#baner
+{
+    width: auto;
+    height: 200px;
+    background-color: #cc9966;
+    text-align: center;
+}
+#menu
+{
+    float: left;
+    width:200px;
+    height:200px;
+    background-color: #32CD32;
+    color:white;
+}
+#trescStrony
+{
+    float:left;
+    width:1680px;
+    height:600px;
+    text-align: center;
+    background-color: #ffff33;
+    color:rgb(0, 0, 0);
+}
+#stopka
+{
+
+    width: auto;
+    height: 200px;
+    background-color: #990033;
+    text-align: center;
+    clear: both;
+}
