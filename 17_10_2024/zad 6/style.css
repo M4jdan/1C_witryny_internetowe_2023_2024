@@ -1,0 +1,7 @@
+div {
+    background-image: url('background.jpg');
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: multiply;
+    /*background-blend-mode: screen;
+    background-blend-mode: overlay;*/
+}

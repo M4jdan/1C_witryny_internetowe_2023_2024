@@ -1,0 +1,30 @@
+header, main, footer { 
+    padding: 20px; 
+    margin: 10px; 
+    border: 1px solid #ccc; 
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); 
+}
+
+header {
+    background-image: url('background.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+main {
+    background-image: url('background2.jpg'); 
+    background-size: contain; 
+    background-repeat: repeat-x; 
+    background-position: bottom left;
+    background-attachment: scroll;
+}
+
+footer {
+    background-image: url('background3.jpg'); 
+    background-size: cover; 
+    background-repeat: repeat-x; 
+    background-position: bottom right;
+    background-attachment: fixed;
+}

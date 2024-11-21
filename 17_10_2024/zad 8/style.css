@@ -1,0 +1,10 @@
+.background {
+    background-image: url('background.jpg');
+    background-color: #4CAF50; 
+    border: 2px solid #000;
+    padding: 20px; 
+    margin: 20px;
+    background-clip: border-box;
+    /*background-clip: padding-box;
+    background-clip: content-box;*/
+}
